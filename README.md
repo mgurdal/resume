@@ -1,5 +1,7 @@
 # Mehmet Gürdal
 
+I am an agile and adaptive software specialist who aims to be the best of himself. I have specialized in developing highly scalable systems and for the last 2 years I have been developing myself in the fields of GIS and data analysis.
+
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap">
 <div>
   <a href="mailto:mgurdal@protonmail.com?subject=Github%20Resume&body=Hello%2C%20My%20name%20is%20%5BYOUR%20NAME%5D%20and%20I%20found%20your%20email%20address%20in%20your%20github%20resume.">        
@@ -12,8 +14,6 @@
     </a>
   </div>
 </div>
-
-I am an agile and adaptive software specialist who aims to be the best of himself. I have specialized in developing highly scalable systems and for the last 2 years I have been developing myself in the fields of GIS and data analysis.
 
 ### General Knowledge & Interests
 
