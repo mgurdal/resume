@@ -101,7 +101,7 @@ As the software developer,
   <div style="margin: 1em">
   <img src="https://scontent-frt3-2.xx.fbcdn.net/v/t31.0-8/14612637_552008064996708_2949426138647120905_o.jpg?_nc_cat=100&_nc_ht=scontent-frt3-2.xx&oh=bc590b1f8c12b69cb9fcc00ccd7589c4&oe=5C7A3CFC" width=300>
   </div>
-  <div style="margin: 1em; width: 300px; color: #333333; align-self: center">
+  <div style="margin: 1em; width: 250px; color: #333333; align-self: center">
   <b>
   <p>
   I and my team mate who developed the electronic system.
