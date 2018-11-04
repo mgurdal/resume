@@ -6,11 +6,7 @@
   <b>mgurdal</b>@protonmail.com 
   </a> 
 </div>
-<div>
-  <a href="github.com/mgurdal"> 
-  github.com/ <b> mgurdal</b>
-  </a> 
- </div>
+
   <div>
     <a href="github.com/mgurdal"> linkedin.com/in/<b>mgurdal</b> 
     </a>
