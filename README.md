@@ -1,6 +1,8 @@
 # Mehmet Gürdal
 
-I am an agile and adaptive software specialist who aims to be the best of himself. I have specialized in developing highly scalable systems and for the last 2 years I have been developing myself in the fields of GIS and data analysis.
+I am an agile and adaptive software specialist who aims to be the best of himself. 
+I have specialized in developing highly scalable systems and for the last 2 years. 
+Recently I am developing myself in **remote sensing** and **data analysis** fields.
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap">
 <div>
@@ -44,8 +46,8 @@ I have
 
 - 5+ years of experience with **python** and
 - 1+ years of experience with **react** and other related modern front-end development tools.
-- I prefer to write Asynchronous code rather than writing synchronous or multi-threaded code.
-- I love unit-testing my code and **jest** and **pytest** are my favorite tools. I am also familiar with other testing concepts such as smoke, functional, end-to-end testing and BDD.
+- I prefer writing asynchronous codes rather than synchronous or multi-threaded codes.
+- I love unit-testing and **jest** and **pytest** are my favorite tools. I am also familiar with other testing concepts such as smoke, functional, end-to-end testing.
 
 I can use many of today's database systems
 
@@ -61,10 +63,10 @@ I'm also very familiar with DevOps concepts.
 
 ## tarla.io: Software Engineer and Intern (07/2017-Present)
 
-[tarla.io](https://www.tarla.io) provides information services to solve problems of the farmer and the sector.
+**tarla.io** provides information services to solve problems of the farmers and the sector.
 
 <p>
-My role was to develop a platform for individual and corporate customers using satellite, sensor and weather services. In the process of working, I used various data processing, analysis and visualization tools. Due to the structure of the service, I designed an asynchronous web service that can manage background tasks.<p/>
+My role was to develop a platform for individual and corporate customers using satellites, sensors and weather services. In the process of working, I used various data processing, analysis and visualization tools. Due to the structure of the service, I designed an asynchronous web service that can manage background tasks.<p/>
 <p>
 In my internship and in the early months of my job, I developed the admin panel of a new project using react and I took care of the interface of existing projects.
 </p>
@@ -86,12 +88,14 @@ As the leader of the team,
 
 ### SDU Alternative Fuel Vehicles Team
 
-[SDU Alternative Fuel Vehicles Team](https://www.facebook.com/sduaeat/) is a student community to produce the most efficient electric car.
+[SDU Alternative Fuel Vehicles Team](https://www.facebook.com/sduaeat/) is a student community that aims to build the most efficient electric car.
 
 As the software developer,
 
 - I developed the electric vehicle's system software.
-- I have developed a telemetry system that transmits vehicle information over the wireless network and shows the vehicle information in the interface.
+- I have developed a telemetry system that
+  - transmits the vehicle's information over a wireless network
+  - shows the analytics in real time on a dashboard.
 
 <div style="display: flex; flex-wrap: wrap">
   <div style="margin: 1em">
@@ -126,7 +130,7 @@ Distributed ORM System
 
 ### DietAI
 
-Nutrition Monitoring System
+Nutrition Recommendation Analysis
 
 Python, TensorFlow
 
@@ -142,6 +146,6 @@ Python, Arduino
 
 Turkish: Native
 
-English: Professional working proficiency
+English: Professional working proficiency (B2-C1)
 
-Korean: Beginner
+Korean: Beginner (A1)
