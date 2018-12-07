@@ -122,7 +122,7 @@ Blazingly Fast Profiling Tool
 
 Distributed ORM System
 
-[https://gitlab.com/mgurdal/Dorm](https://gitlab.com/mgurdal/Dorm)
+[https://gitlab.com/mgurdal/Dorm](https://github.com/mgurdal/Dorm)
 
 ### DietAI
 
