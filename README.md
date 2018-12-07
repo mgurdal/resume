@@ -63,7 +63,7 @@ I'm also very familiar with DevOps concepts.
 
 ## tarla.io: Software Engineer and Intern (07/2017-Present)
 
-**tarla.io** provides information services to solve problems of the farmers and the sector.
+[tarla.io](https://www.tarla.io) provides information services to solve problems of the farmers and the sector.
 
 <p>
 My role was to develop a platform for individual and corporate customers using satellites, sensors and weather services. In the process of working, I used various data processing, analysis and visualization tools. Due to the structure of the service, I designed an asynchronous web service that can manage background tasks.<p/>
