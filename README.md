@@ -12,7 +12,6 @@ I also develop libraries for popular web servers.
   <b>mgurdal</b>@protonmail.com 
   </a> 
 </div>
-  <br />
   <div>
     <a href="github.com/mgurdal"> linkedin.com/in/<b>mgurdal</b> 
     </a>
