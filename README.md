@@ -1,5 +1,4 @@
 # Mehmet Gürdal
------------
 
 I'm an agile software specialist obsessed with solving problems.
 I have specialized in developing highly scalable systems and **python** is my main weapon.
