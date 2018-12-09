@@ -1,7 +1,7 @@
 # Mehmet Gürdal
 
 I am an agile and adaptive software specialist who aims to be the best of himself. 
-I have specialized in developing highly scalable systems and for the last 2 years. 
+I have specialized in developing highly scalable systems.
 Recently I am developing myself in **remote sensing** and **data analysis** fields.
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap">
