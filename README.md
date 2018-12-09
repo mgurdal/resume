@@ -1,8 +1,10 @@
-# Mehmet Gürdal
+# Hello
 
-I am a software specialist who aims to be the best of himself. 
-I have specialized in developing highly scalable systems.
-Recently I am developing myself in **remote sensing** and **data analysis** fields.
+I'm an agile software specialist obsessed with solving problems.
+I have specialized in developing highly scalable systems and **python** is my main weapon.
+Recently I am developing myself in **remote sensing** and **data analysis** fields. 
+I also develop libraries for popular web servers.
+
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap">
 <div>
@@ -10,7 +12,7 @@ Recently I am developing myself in **remote sensing** and **data analysis** fiel
   <b>mgurdal</b>@protonmail.com 
   </a> 
 </div>
-
+  <br />
   <div>
     <a href="github.com/mgurdal"> linkedin.com/in/<b>mgurdal</b> 
     </a>
