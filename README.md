@@ -1,4 +1,5 @@
-# Hello
+# Mehmet Gürdal
+-----------
 
 I'm an agile software specialist obsessed with solving problems.
 I have specialized in developing highly scalable systems and **python** is my main weapon.
@@ -18,7 +19,7 @@ I also develop libraries for popular web servers.
   </div>
 </div>
 
-### General Knowledge & Interests
+# General Knowledge & Interests
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap">
   <div>
