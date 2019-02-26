@@ -19,30 +19,14 @@ I also develop libraries for popular web servers.
 </div>
 
 # General Knowledge & Interests
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap">
-  <div>
-    Open Source
-  </div>
-  <div>
-    Data Analysis & Statistics 
-  </div>
-  <div>
-    Remote Sensing
-  </div>
-  <div>
-    Machine Learning 
-  </div>
-  <div>
-    Test Driven Development
-  </div>
-  <div>
-    Agile Project Management 
-  </div>
-</div>
+- Open Source
+- Data Analysis & Statistics 
+- Remote Sensing
+- Machine Learning 
+- Test Driven Development
+- Agile Project Management
 
 # Technical Skills
-
 I have
 
 - 5+ years of experience with **python** and
@@ -58,7 +42,7 @@ I can use many of today's database systems
 
 I'm also very familiar with DevOps concepts.
 
-- I can design project development and staging steps in CI environments like **jenkins** or **gitlab**.
+- I can design project development and staging steps in CI environments like **jenkins**, **travis-ci** or **gitlab-ci**.
 
 # Professional Experience
 
@@ -116,6 +100,12 @@ As the software developer,
 </div>
 
 ## Personal Projects
+
+### aiohttp_auth
+
+Authentication and permission scoping for aiohttp
+
+[https://github.com/mgurdal/aiohttp_auth](https://github.com/mgurdal/aiohttp_auth)
 
 ### Soda
 
