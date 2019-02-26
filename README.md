@@ -1,6 +1,6 @@
 # Mehmet Gürdal
 
-I'm an agile software specialist obsessed with solving problems.
+I'm a young and curious software developer.
 I have specialized in developing highly scalable systems and **python** is my main weapon.
 Recently I am developing myself in **remote sensing** and **data analysis** fields. 
 I also develop libraries for popular web servers.
