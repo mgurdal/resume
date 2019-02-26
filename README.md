@@ -51,14 +51,18 @@ I'm also very familiar with DevOps concepts.
 [tarla.io](https://www.tarla.io) provides information services to solve problems of the farmers and the sector.
 
 <p>
-My role was to develop a platform for individual and corporate customers using satellites, sensors and weather services. In the process of working, I used various data processing, analysis and visualization tools. Due to the structure of the service, I designed an asynchronous web service that can manage background tasks.<p/>
+My role was to develop a platform for individual and corporate customers using satellites, sensors and weather services. Due to the structure of the service, I have designed an asynchronous web service that can manage thousands of background tasks. I have also developed algorithms to detect natural disasters using satellite imagery.<p/>
 <p>
-In my internship and in the early months of my job, I developed the admin panel of a new project using react and I took care of the interface of existing projects.
+In my internship and in the early months of my job, I developed the admin panel of a new project using react and I maintained the interfaces of the old projects.
 </p>
 
 # Education
 
 ## Suleyman Demirel University (2012-2017)
+
+### Bachelor of Computer Engineering 
+
+During my education, despite not being in the curriculum, I learned to develop web sites with Django and built machine learning models using tensorflow.
 
 I attended two student organizations in my education life.
 
@@ -77,21 +81,15 @@ As the leader of the team,
 
 As the software developer,
 
-- I developed the electric vehicle's system software.
-- I have developed a telemetry system that
-  - transmits the vehicle's information over a wireless network
+- I have developed the electric vehicle's system software.
+- I have have built a telemetry system that
+  - transmits vehicle's information over a wireless network
   - shows the analytics in real time on a dashboard.
 
-<div style="display: flex; flex-wrap: wrap">
-  <div style="margin: 1em">
   <img src="https://scontent-frt3-2.xx.fbcdn.net/v/t31.0-8/14612637_552008064996708_2949426138647120905_o.jpg?_nc_cat=100&_nc_ht=scontent-frt3-2.xx&oh=bc590b1f8c12b69cb9fcc00ccd7589c4&oe=5C7A3CFC" width=300>
-  </div>
-  <div style="margin: 1em; width: 250px; color: #333333; align-self: center">
-  <p>
+
   I and my team mate who developed the electronic system.
-  </p> 
-  <p> Both staring blank at the battery system's code screen after 2 days sleepless work ☕😴.
-  </p>
+Both staring blank at the battery system's code screen after 2 days sleepless work ☕😴.
 
 <a href="https://goo.gl/maps/9wEt66DwrWR2" > @Izmit Gulf Race Track </a>
 
@@ -118,14 +116,6 @@ Blazingly Fast Profiling Tool
 Distributed ORM System
 
 [https://gitlab.com/mgurdal/Dorm](https://github.com/mgurdal/Dorm)
-
-### DietAI
-
-Nutrition Recommendation Analysis
-
-Python, TensorFlow
-
-[https://github.com/mgurdal/DietAI](https://github.com/mgurdal/DietAI)
 
 ### Telemetry System for Electric Vehicles
 
