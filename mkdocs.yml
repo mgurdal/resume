@@ -1,0 +1,32 @@
+site_name: Mehmet Gurdal
+site_description: Mehmet Gurdal resume.
+site_author: Mehmet Gürdal
+site_url: https://mgurdal.github.io
+
+
+nav:
+    - Introduction: index.md
+    - Projects : projects.md
+    - Professional Life: professional.md
+    - Education: education.md
+
+extra:
+  social:
+    - type: github-alt
+      link: https://github.com/mgurdal
+    - type: twitter
+      link: https://twitter.com/mgurdal_
+    - type: linkedin
+      link: https://linkedin.com/in/mgurdal
+    - type: kaggle
+      link: https://www.kaggle.com/anticode
+
+theme:
+  name: 'material'
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
+
+extra_css:
+    - assets/css/extra.css
+
+favicon: assets/images/favicon.ico
