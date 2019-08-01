@@ -1,7 +1,12 @@
+## Metglobal
+I am currently working at [Metglobal](https://www.metglobal.com/). 
+Our company houses a variety of brands in their portfolio established in online travel and travel related technologies 
+allowing partners to operate in over many countries and territories across the globe.
+
 ## tarla.io
 
-I am currently working at [tarla.io](https://tarla.io). Our company provides information services to solve problems of the farmers and the sector.
+tarla.io provides information services to solve problems of the farmers and the sector.
 
-I am developing the back-end part of a platform for individual and corporate customers.
-Our platform digitalizes field expert's works by collecting and analyzing data from unbiased 
+I developed the back-end part of a platform for individual and corporate customers.
+Our platform digitalized field expert's works by collecting and analyzing data from unbiased 
 data sources.

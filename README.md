@@ -45,8 +45,9 @@ I'm also very familiar with DevOps concepts.
 - I can design project development and staging steps in CI environments like **jenkins**, **travis-ci** or **gitlab-ci**.
 
 # Professional Experience
+## Metglobal: Software Engineer and Intern (08/2019-Present)
 
-## tarla.io: Software Engineer and Intern (07/2017-Present)
+## tarla.io: Software Engineer and Intern (07/2017-08/2019)
 
 [tarla.io](https://www.tarla.io) provides information services to solve problems of the farmers and the sector.
 
@@ -95,7 +96,7 @@ As the software developer,
 
 Authentication and permission scoping for aiohttp
 
-[https://github.com/mgurdal/aiohttp_auth](https://github.com/mgurdal/aiohttp_auth)
+[https://github.com/mgurdal/aegis](https://github.com/mgurdal/aegis)
 
 ### Soda
 
