@@ -17,6 +17,7 @@ I also develop libraries for popular web servers.
     </a>
   </div>
 </div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="tr_TR" data-type="vertical" data-theme="dark" data-vanity="mgurdal"><a class="LI-simple-link" href='https://tr.linkedin.com/in/mgurdal?trk=profile-badge'>Mehmet Gürdal</a></div>
 
 # General Knowledge & Interests
 - Open Source
@@ -45,7 +46,9 @@ I'm also very familiar with DevOps concepts.
 - I can design project development and staging steps in CI environments like **jenkins**, **travis-ci** or **gitlab-ci**.
 
 # Professional Experience
-## Metglobal: Software Engineer and Intern (08/2019-Present)
+## Metglobal: Software Engineer and Intern (08/2019-03/2020)
+Metglobal houses a variety of brands in their portfolio established in online travel and travel-related technologies allowing partners to operate in over many countries and territories across the globe.
+My team was responsible for providing online tours, car rentals, and private transfers by developing RESTFul web applications.
 
 ## tarla.io: Software Engineer and Intern (07/2017-08/2019)
 
