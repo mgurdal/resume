@@ -45,7 +45,7 @@ I'm also very familiar with DevOps concepts.
 - I can design project development and staging steps in CI environments like **jenkins**, **travis-ci** or **gitlab-ci**.
 
 # Professional Experience
-## Metglobal: Software Engineer and Intern (08/2019-Present)
+## Metglobal: Software Engineer (08/2019-Present)
 
 ## tarla.io: Software Engineer and Intern (07/2017-08/2019)
 
