@@ -29,3 +29,7 @@ extra_css:
     - assets/css/extra.css
 
 favicon: assets/images/favicon.ico
+
+google_analytics:
+  - 'UA-152694708-2'
+  - 'auto'
