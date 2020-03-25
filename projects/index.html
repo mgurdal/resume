@@ -67,6 +67,31 @@
     
     
       
+        
+<script>
+  window.ga = window.ga || function() {
+    (ga.q = ga.q || []).push(arguments)
+  }
+  ga.l = +new Date
+  /* Setup integration and send page view */
+  ga("create", "UA-152694708-2", "auto")
+  ga("set", "anonymizeIp", true)
+  ga("send", "pageview")
+  /* Register handler to log search on blur */
+  document.addEventListener("DOMContentLoaded", () => {
+    if (document.forms.search) {
+      var query = document.forms.search.query
+      query.addEventListener("blur", function() {
+        if (this.value) {
+          var path = document.location.pathname;
+          ga("send", "pageview", path + "?q=" + this.value)
+        }
+      })
+    }
+  })
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+      
     
     
   </head>
@@ -217,6 +242,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#go-tutorial" title="Go Tutorial" class="md-nav__link">
+    Go Tutorial
+  </a>
+  
+</li>
+      
       
       
       
@@ -277,6 +309,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#go-tutorial" title="Go Tutorial" class="md-nav__link">
+    Go Tutorial
+  </a>
+  
+</li>
+      
       
       
       
@@ -300,6 +339,9 @@
 <p><b> aegis </b> is an authentication and permission scoping library for aiohttp. </p>
 <p>The main motivation for the development of this project was to create an easy-to-use,
 standards-compliant authentication library with comprehensive documentation and code samples.</p>
+<h3 id="go-tutorial"><a href="https://mgurdal.github.io/go-tutorial">Go Tutorial</a></h3>
+<p>Educational material that includes the use of data structures in Go language 
+and the principles of concurrent programming.</p>
                 
                   
                 
