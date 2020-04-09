@@ -1,3 +1,0 @@
-mkdocs==1.0.4
-mkdocs-material==4.2.0
-Pygments==2.3.1
