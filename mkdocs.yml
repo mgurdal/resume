@@ -31,5 +31,5 @@ extra_css:
 favicon: assets/images/favicon.ico
 
 google_analytics:
-  - 'UA-152694708-2'
-  - 'auto'
+  - UA-163254669-1
+  - auto
