@@ -14,9 +14,9 @@
 
 <span style="display: block; margin: 2em;"> </span>
 
-I have specialized in developing highly scalable systems using **python**.
+I have specialized in developing web projects using **go** and **python**.
 
-Recently, I am developing myself on **remote sensing** and **data analysis** fields. 
+Recently, I am developing myself on **data analysis** and **distributed systems**. 
 
 I also develop libraries for popular web servers.
 
